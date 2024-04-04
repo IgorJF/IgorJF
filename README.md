@@ -4,7 +4,7 @@
 
 #### **Igor Ferraz, 19 anos, brasileiro, Espírito Santo**
 #### **desenvolvimento, ciência de dados, ux/ui designer**
-#### **graduando em Sistemas de Informação
+#### **graduando em Sistemas de Informação**
 
 
 ## **Skills:**
