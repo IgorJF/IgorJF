@@ -2,26 +2,8 @@
 <a href="igorjgferraz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
 <a href="https://github.com/IgorJF"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""></a>
 
-#### **Igor Ferraz, 19 anos, brasileiro, Espírito Santo**
-#### **desenvolvimento, ciência de dados, ux/ui designer**
+#### **Igor Ferraz, brasileiro, Espírito Santo**
+#### **desenvolvimento, ciência de dados**
 #### **graduando em Sistemas de Informação**
 
-<table>
-    <tr>
-      <!--<td>
-        <img
-          align="left"
-          src="https://github-readme-stats.vercel.app/api?username=IgorJF&theme=dark&hide_border=false&include_all_commits=true"
-          alt="Github Stats"
-        />
-      </td>-->
-      <td>
-        <img
-          align="left"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorJF&theme=dark&hide_border=false&count_private=true&layout=compact"
-          alt="Github Stats" 
-        />
-      </td>
-    </tr>
-  </table>
 
